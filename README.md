@@ -1,4 +1,7 @@
-# Static Content challenge
+# Static Content Challenge
+
+![Tests](https://github.com/jayfresh/static-content-challenge-2025-response/actions/workflows/test.yml/badge.svg)
+[![Deployed on Vercel](https://therealsujitk-vercel-badge.vercel.app/?app=static-content-challenge-2025-response)](https://static-content-challenge-2025-response.vercel.app)
 
 **NB: Please do not fork this repository, to avoid your solution being visible from this repository's GitHub page. Please clone this repository and submit your solution as a separate repository.**
 
